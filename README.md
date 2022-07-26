@@ -1,2 +1,2 @@
 # Treino
-Repositório para treino
+Repositório para treino Shell script.
